@@ -7,6 +7,10 @@
 [dockerfile best partices take 2](http://crosbymichael.com/dockerfile-best-practices-take-2.html)  
 
 
+## P2P
+
+[ books and papers that influenced the Cryptosphere's design](https://github.com/cryptosphere/cryptosphere/wiki/Reading-List)   books and papers that influenced the Cryptosphere's design  
+
 ## work
 
 ### remote
