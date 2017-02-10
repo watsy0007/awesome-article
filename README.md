@@ -1,5 +1,9 @@
 #awesome-article
 
+## ruby
+
+[log local variables and instance variables when exceptions occur in ruby](http://blog.honeybadger.io/log-local-variables-and-instance-variables-when-exceptions-occur-in-ruby/)  
+
 
 ## docker
 
